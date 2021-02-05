@@ -1,0 +1,43 @@
+.navbar {
+  padding: 30px 50px;
+  text-align: center;
+  background-color: green;
+  border-radius: 20px;
+}
+
+a {
+  padding: 20px;
+  color: chartreuse;
+  text-decoration: none;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 3px;
+}
+a:hover {
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+th {
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-bottom: 30px;
+}
+.img1 {
+  border-radius: 4px 4px;
+  width: 240px;
+  height: 240px;
+}
+.img1:hover {
+  border-radius: 10rem 10rem;
+  width: 240px;
+  height: 240px;
+}
+.main-img {
+  padding-left: 18rem;
+}
+.img2 {
+  border-radius: 4px 4px;
+  width: 240px;
+  height: 240px;
+  padding: 0.5rem;
+}
